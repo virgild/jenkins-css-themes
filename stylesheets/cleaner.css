@@ -21,6 +21,6 @@ a, a:visited, a:active, a:hover, a:link {
 
 #main-table {
    background: none;
-   background-image: none;
+   background-image: none !important;
    background-position: bottom left;
 }
