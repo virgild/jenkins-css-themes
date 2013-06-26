@@ -15,6 +15,14 @@ a, a:visited, a:active, a:hover, a:link {
    display:none;
 }
 
+#top-panel img:first-child {
+   display: block;
+   content: "";
+   width: 81px;
+   height: 75px;
+   background: url('http://i.imgur.com/5SxKwYw.png') no-repeat;
+}
+
 #search-box {
    margin-top: 8px;
 }
