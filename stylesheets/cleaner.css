@@ -15,7 +15,7 @@ a, a:visited, a:active, a:hover, a:link {
    display:none;
 }
 
-#top-panel img:first-child {
+#top-panel td:first-child img:first-child {
    display: block;
    content: "";
    width: 81px;
